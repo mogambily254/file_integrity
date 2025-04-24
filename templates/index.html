@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Integrity Monitor</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.4.1/socket.io.js"></script>
+    <style>
+        body {
+            background-color: #1e1e1e;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        #log-container {
+            border: 1px solid #555;
+            background-color: #2e2e2e;
+            padding: 10px;
+            height: 300px;
+            overflow-y: scroll;
+            margin-top: 20px;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px;
+            border: none;
+            cursor: pointer;
+            margin: 5px;
+        }
+        input {
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>File Integrity Monitor</h1>
+    <input type="text" id="directory" placeholder="Enter directory to monitor">
+    <input type="number" id="interval" placeholder="Interval (seconds)" value="3">
+    <button onclick="startMonitoring()">Start Monitoring</button>
+    <button onclick="stopMonitoring()">Stop Monitoring</button>
+    <div id="log-container"></div>
+
+    <script>
+        var socket = io();
+
+        function startMonitoring() {
+            let directory = document.getElementById("directory").value;
+            let interval = document.getElementById("interval").value;
+            fetch("/start", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ directory: directory, interval: parseInt(interval) })
+            }).then(response => response.json())
+              .then(data => alert(data.message));
+        }
+
+        function stopMonitoring() {
+            fetch("/stop", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" }
+            }).then(response => response.json())
+              .then(data => alert(data.message));
+        }
+
+        socket.on("log_update", function(data) {
+            let logContainer = document.getElementById("log-container");
+            let logEntry = document.createElement("p");
+            logEntry.textContent = data.message;
+            logContainer.appendChild(logEntry);
+            logContainer.scrollTop = logContainer.scrollHeight;
+        });
+    </script>
+</body>
+</html>

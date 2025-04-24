@@ -1,0 +1,210 @@
+2025-03-22 15:24:37,641 - INFO - Starting File Integrity Monitor on '/home/mogambi/Pictures/tailor'
+2025-03-22 15:24:59,648 - INFO - Added: /home/mogambi/Pictures/tailor/mekatilili.txt
+2025-03-22 15:25:17,655 - INFO - Removed: /home/mogambi/Pictures/tailor/mekatilili.txt
+2025-03-22 15:52:31,321 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.14:5000
+2025-03-22 15:52:31,321 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-22 15:52:31,321 - INFO -  * Restarting with stat
+2025-03-22 15:52:31,548 - WARNING -  * Debugger is active!
+2025-03-22 15:52:31,549 - INFO -  * Debugger PIN: 842-828-502
+2025-03-22 15:53:07,326 - INFO - 127.0.0.1 - - [22/Mar/2025 15:53:07] "GET / HTTP/1.1" 200 -
+2025-03-22 15:53:07,474 - INFO - 127.0.0.1 - - [22/Mar/2025 15:53:07] "GET /socket.io/?EIO=4&transport=polling&t=PM_QfAF HTTP/1.1" 200 -
+2025-03-22 15:53:07,492 - INFO - 127.0.0.1 - - [22/Mar/2025 15:53:07] "POST /socket.io/?EIO=4&transport=polling&t=PM_QfAS&sid=Mnew3VrnvFjB1eCdAAAA HTTP/1.1" 200 -
+2025-03-22 15:53:07,498 - INFO - 127.0.0.1 - - [22/Mar/2025 15:53:07] "GET /socket.io/?EIO=4&transport=polling&t=PM_QfAW&sid=Mnew3VrnvFjB1eCdAAAA HTTP/1.1" 200 -
+2025-03-22 15:53:07,531 - INFO - 127.0.0.1 - - [22/Mar/2025 15:53:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-22 15:53:47,527 - INFO - Monitoring started on '/home/mogambi/Desktop/mekaaa'
+2025-03-22 15:53:47,529 - INFO - 127.0.0.1 - - [22/Mar/2025 15:53:47] "POST /start HTTP/1.1" 200 -
+2025-03-22 15:54:11,535 - INFO - Added: /home/mogambi/Desktop/mekaaa/leta.txt
+2025-03-22 15:54:41,544 - INFO - Removed: /home/mogambi/Desktop/mekaaa/leta.txt
+2025-03-22 15:54:47,904 - INFO - 127.0.0.1 - - [22/Mar/2025 15:54:47] "[31m[1mPOST /start HTTP/1.1[0m" 400 -
+2025-03-22 15:55:02,548 - INFO - Added: /home/mogambi/Desktop/mekaaa/leto.txt
+2025-03-22 15:55:11,551 - INFO - Removed: /home/mogambi/Desktop/mekaaa/leto.txt
+2025-03-22 15:57:18,043 - INFO -  * Restarting with watchdog (inotify)
+2025-03-22 15:57:18,768 - WARNING -  * Debugger is active!
+2025-03-22 15:57:18,768 - INFO -  * Debugger PIN: 689-219-266
+2025-03-22 15:58:39,195 - INFO -  * Restarting with watchdog (inotify)
+2025-03-22 15:58:39,921 - WARNING -  * Debugger is active!
+2025-03-22 15:58:39,921 - INFO -  * Debugger PIN: 689-219-266
+2025-03-22 15:59:02,511 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.14:5000
+2025-03-22 15:59:02,511 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-22 15:59:02,511 - INFO -  * Restarting with stat
+2025-03-22 15:59:02,727 - WARNING -  * Debugger is active!
+2025-03-22 15:59:02,727 - INFO -  * Debugger PIN: 842-828-502
+2025-03-22 15:59:14,921 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:14] code 400, message Bad request version ('\x00\x02\x01\x00ÿ\x01\x00\x01\x00\x00')
+2025-03-22 15:59:14,922 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:14] "[31m[1m\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03n\x1d¼tß·\x97Ð¤AGG´7Y~þ*/ÐÀñìöR\x15\x90ØÂwª) \x10¨\x1bq\x13dÞ\x15ÐD%x\x93´~ö\x07PÍ¸\x03@K \x17â\x1f´?;ýg\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06eúú\x00\x00\x00\x0b\x00\x02\x01\x00ÿ\x01\x00\x01\x00\x00[0m" 400 -
+2025-03-22 15:59:14,930 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:14] code 400, message Bad request version ('\x01²ç«\x8dú5')
+2025-03-22 15:59:14,930 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:14] "[31m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03[n!V\x87\x0bF\x93°{¤,yöý!°²j\x1cz\x8b\x87¶ÍþÎnÖx÷ï ì`Wñ°ê­´¯áj4µB¯f_\x93½\x1d¬\x04^A¡ò\\âÄWÜß\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥êê\x00\x00\x003\x04ï\x04í\x9a\x9a\x00\x01\x00c\x99\x04À\x80Æp®Ra\x8d\x0f¢³\x9b£ô»±Èµ¡0@\x85çèÑþ3TµÉ\x03\x14\x03W*H£0\x9e4V\x11³\x17®Â«M!H\x05ðÁQÚì\x190#SÍs\x98±ta\x09\x01²ç«\x8dú5[0m" 400 -
+2025-03-22 15:59:14,942 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:14] code 400, message Bad request version ('Øgùª\x16ä{àQÿÖQ\x8bØ®L|')
+2025-03-22 15:59:14,943 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:14] "[31m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03^d\x13¾\x0fW\x8b.\x88ñSU\x8a\x8f2Q¼ÿñyö$ÏA@\x0bÜåâ\x8arR Øgùª\x16ä{àQÿÖQ\x8bØ®L|\x85[0m" 400 -
+2025-03-22 15:59:14,945 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:14] code 400, message Bad request version ('PÛyøÃ²rMWÅ\x8dgo\x90±sl(\x8bÓzû\x02+þXR»\x0f¶\x04Â$\x874a[\x8blì\x9b\x8bðôùí¹F\x00\x12\x00\x00\x00')
+2025-03-22 15:59:14,945 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:14] "[31m[1m\x16\x03\x01\x06²\x01\x00\x06®\x03\x03¡ôìÉø\x8dâN\x1d¾»\x9bRE\x1aê3®öÒÄ^,G1_5yv\x98?Ý \x8fW«`\x07S7¥j\x81\x10ø\x17\x14gY\x17[Ãô\x13î6b+m:Õ#\x9aG§\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Ejj\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01ÿ\x01\x00\x01\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00\x0b\x00\x02\x01\x00\x00#\x00\x00þ\x0d\x00º\x00\x00\x01\x00\x01\x92\x00 \x13\x1d±g\x1fNÛ¿Õá\x90Òôf´º\x01Ðn\x94q\x11\x97¯Abúk\x9fæg8\x00\x90y-i\x82¡çÇú\x046Ðï+uª\x0c¾08]UL%è\x95A1{¶\x8b\x08\x9a%Û'j;]ïS .!Ø³s:7Ç\x1e\x19ò\x9f\x99\x87[ÆU<RíSTºN\x87Ö"/\x9b¾I\x14ØÚ\x9b\x17Øÿ}ð!\x14¨·éþ}1\x83L\x1c½¤\x99\x0dPÛyøÃ²rMWÅ\x8dgo\x90±sl(\x8bÓzû\x02+þXR»\x0f¶\x04Â$\x874a[\x8blì\x9b\x8bðôùí¹F\x00\x12\x00\x00\x00[0m" 400 -
+2025-03-22 15:59:14,950 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:14] code 400, message Bad request version ('&Ôz²y\x86¬')
+2025-03-22 15:59:14,950 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:14] "[31m[1m\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03\x1b\x00{\x09À§¢\x93GæxæÍ±}¦ô8\x88Ë¬\x9dø§`h\x87¡ËÓ\x14ö &Ôz²y\x86¬ [0m" 400 -
+2025-03-22 15:59:14,952 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:14] code 400, message Bad request version ('Ôé\x84')
+2025-03-22 15:59:14,953 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:14] "[31m[1m\x16\x03\x01\x06ò\x01\x00\x06î\x03\x03H\x0e¹\x7f\x8f|ýCö\x92\x87¼òY\x06Ç4±©:é\x0c±\x0fKÛÂ+Ò½<l p\x8a\x1f\x9a¾9û®sÍ\x0dIyBìú¿65¯\x89Å!)s¤µ¤¢-\x15\x05\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x85ºº\x00\x00þ\x0d\x00ú\x00\x00\x01\x00\x01x\x00 »£\x17øB{e°\x11êÑ\x00~@§\x92;u8¯\x1a2.%\x9d\x98KCR\x99\x8c<\x00Ð\x9f´¦\x85Ôé\x84[0m" 400 -
+2025-03-22 15:59:16,889 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:16] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03i¤\x10\x9cÕÆ®\x0eãCauè\x19N')
+2025-03-22 15:59:16,891 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:16] "[31m[1m\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03i¤\x10\x9cÕÆ®\x0eãCauè\x19N\x85É\x9b\x87<üõ²u[0m" 400 -
+2025-03-22 15:59:16,897 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:16] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03')
+2025-03-22 15:59:16,897 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:16] "[31m[1m\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03\x09\x86u¬[0m" 400 -
+2025-03-22 15:59:16,903 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:16] code 400, message Bad request version ('Üx\x15')
+2025-03-22 15:59:16,904 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:16] "[31m[1m\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03B»×&@\x8dç\x08ª(\x9b\x9ep\x1a\x0d\x04\x0eoébçøKà\x169J\x1e\x86C\x06ý ·¬æª\x95ÃØ\x8aå9&-êÞEÖlñ­\x9a NkíÆ\x19E\x13\x99àâª\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06eÊÊ\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01þ\x0d\x00Ú\x00\x00\x01\x00\x01%\x00 \x19\x86C\x05H¿\x839 &0ä\x85K\x81æ¢`YL¶\x98êÀ×½\x98kâ\x0e@[\x00°Å\\\x85±\x1cÜx\x15[0m" 400 -
+2025-03-22 15:59:16,911 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:16] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03K')
+2025-03-22 15:59:16,912 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:16] "[31m[1m\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03K\x09\x97b¦\x7fÖ[0m" 400 -
+2025-03-22 15:59:17,654 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:17] code 400, message Bad request version ('\x83°&\x9c,')
+2025-03-22 15:59:17,655 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:17] "[31m[1m\x16\x03\x01\x06ò\x01\x00\x06î\x03\x03¯¸B.ÏÓò3\x1a¿Oè\x09º`\x01÷?Y\x98\x8a\x87.*ÿÖ\x9a qºAs íûmÚ\x1b8\x9eO7"«\x9b3@Þ¡>)finzÆG\x06Úß)\x1d\x92ø\x07\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x85\x8a\x8a\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1ÿ\x01\x00\x01\x00\x00#\x00\x00\x003\x04ï\x04íºº\x00\x01\x00c\x99\x04À\x85lÀÌmd\x986ÀË\x0e\x14\x09ÐË\x13äÚ\x99µ\x8b\x87\x0bß\x82¸Ù\x8aÞ¿F\x1aEQb3âÍm\x09\x12h\x1a\x1c\x83°&\x9c,[0m" 400 -
+2025-03-22 15:59:17,665 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:17] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06²\x01\x00\x06®\x03\x03\x81bâfõ\x8c4')
+2025-03-22 15:59:17,665 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:17] "[31m[1m\x16\x03\x01\x06²\x01\x00\x06®\x03\x03\x81bâfõ\x8c4\x1dõÄ¦Ð\x94ß*ò[0m" 400 -
+2025-03-22 15:59:17,672 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:17] code 400, message Bad request version ('\x00\x02\x01\x00\x00+\x00\x07\x06')
+2025-03-22 15:59:17,673 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:17] "[31m[1m\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03µÏÒ\x0cÁP\x1e¿\x8bÂ\x901\x00öìä4®}B\x88\x07k#2w/\x15 3¨q Ö\\¬ÍÕ!MÊ$ò&=\x06Æ\x18Q\x9cÓä\x87â>\x0f\x9a\x80ê¨[­\x88,ð\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06eúú\x00\x00\x00\x0b\x00\x02\x01\x00\x00+\x00\x07\x06[0m" 400 -
+2025-03-22 15:59:17,679 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:17] code 400, message Bad request version ('ýì´ËÂ\x8fÐR\x80fi(')
+2025-03-22 15:59:17,680 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:17] "[31m[1m\x16\x03\x01\x06²\x01\x00\x06®\x03\x03BHcØS8[Oå\x7fQ\x93\x94ö¦pzÐü8\x93Ý\x9bÙÇ\\´¢iÍ\x0dü ýì´ËÂ\x8fÐR\x80fi([0m" 400 -
+2025-03-22 15:59:18,070 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:18] code 400, message Bad request version ('UÎ\x105°')
+2025-03-22 15:59:18,071 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:18] "[31m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03v\x19Bo\x04\x9d6mSsY\\'\x8fÁüwÝ\x85´\x9aWçfÝ§\x8d¢Ë|\x1c- ©\x12xërþ1~þhÃ\x83z\x12þªbîÓ^\x05\x02èxÔ;Qôxg~\x9a\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ºº\x00\x00\x003\x04ï\x04íÊÊ\x00\x01\x00c\x99\x04À\x0d9$¸¨lØi²âºg\x03Ù¾:{\\\x1e¢5½øïØ¹±kÝ¸MD\x06±{¥%¼ÔÁ\x81\x1cUÎ\x105°[0m" 400 -
+2025-03-22 15:59:18,078 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:18] code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+2025-03-22 15:59:18,079 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:18] "[31m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03qÃS\x07â[ü¢¢I\x13Àj\x9eîþÁ\x15un¥\x0c\x7f\x8cÖ~ãzR\x0f^t 3¢¹IÁÇ.\x9f¬ïÿ\x0cVÃ¸Ì;ÀrdÁ\x9e\x99¼C\x17Í\x0cò\x07³@\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ÚÚ\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x12\x00\x00\x00\x0b\x00\x02\x01\x00\x00[0m" 400 -
+2025-03-22 15:59:18,093 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:18] code 400, message Bad request version ('\x00\x02\x01\x00Di\x00\x05\x00\x03\x02h2ÿ\x01\x00\x01\x00\x003\x04ï\x04í')
+2025-03-22 15:59:18,094 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:18] "[31m[1m\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03\x96î\x05\x84\x988MÁ¨þn.Þä½O¿¢²²E¢#NfÊ\x17#\x06I\x831 \x85ÀÞÓnä9®,xùK³\x8fS\x8cN÷(BOó\x82\x89òca$B2Ið\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06e\x1a\x1a\x00\x00þ\x0d\x00Ú\x00\x00\x01\x00\x01\x9b\x00 Üç;Aû\x19h÷\x8beh ~Kú\x1d£yYÄK²çø¼½\x7fO\x16Id/\x00°*Ïó´ùX\x14Ii\x1fìq&®ñ%\x8eo«y\x83ÿ`\x81&@ájõ$5-rtÞKA"Lw\\\x9b\x86Õ\x9bxAöÈÐH«r¼+@Ö\x1dÛî\x07\x8b\\\x7f©®\x13$\x81\x12Ø\x18³©­û%ð\x0d:ÁÔ\x0f¤äÞB\x84=\x0cm@æär®K¿¸\x7f(ß\x1dKd½¡âë«Ý\x1f\x19ÂâaöÆM¾ÃÜèª\x0c8Õ'mj{;9Ö{\x04V\x8ei¶\x06ód=õ\x9bô¡¹\x9c\x08T9\x7fÍ=´âñ$äi\x84×Cò¦\x80ç1"«³D\x01Þ\x00\x17\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00-\x00\x02\x01\x01\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00#\x00\x00\x00\x12\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00+\x00\x07\x06ÚÚ\x03\x04\x03\x03\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x0b\x00\x02\x01\x00Di\x00\x05\x00\x03\x02h2ÿ\x01\x00\x01\x00\x003\x04ï\x04í[0m" 400 -
+2025-03-22 15:59:18,096 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:18] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03µ«§öÛ\x11Ý')
+2025-03-22 15:59:18,097 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:18] "[31m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03µ«§öÛ\x11Ý\x85\x1ar!5[0m" 400 -
+2025-03-22 15:59:18,108 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:18] code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ÊÊ\x00\x00\x00+\x00\x07\x06')
+2025-03-22 15:59:18,109 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:18] "[31m[1m\x16\x03\x01\x07\x12\x01\x00\x07\x0e\x03\x03 \x138Z~¹s}#\x10>ÁÞ3\x9dýX¼ùê"Ï}Úsen²\x8d;\x10\x08 î«\x85°\x99ü¥G/9[Å[\x9dNñP¸ú\x85wl`3Â\x8e\x98\x01\x11÷¤\x10\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥ÊÊ\x00\x00\x00+\x00\x07\x06[0m" 400 -
+2025-03-22 15:59:18,113 - ERROR - 127.0.0.1 - - [22/Mar/2025 15:59:18] code 400, message Bad request version ('\x89\x1bîÄ\x10')
+2025-03-22 15:59:18,115 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:18] "[31m[1m\x16\x03\x01\x06ò\x01\x00\x06î\x03\x03ôÇ÷B\x05\x1d\x16Ð¸t\x96\x85~I¥MÌä\x81iY\x97K\x09\x89\x1bîÄ\x10[0m" 400 -
+2025-03-22 15:59:23,778 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:23] "GET / HTTP/1.1" 200 -
+2025-03-22 15:59:24,075 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:24] "GET /socket.io/?EIO=4&transport=polling&t=PM_S56U HTTP/1.1" 200 -
+2025-03-22 15:59:24,095 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:24] "POST /socket.io/?EIO=4&transport=polling&t=PM_S56w&sid=srjoLW8TF1zOdG2WAAAA HTTP/1.1" 200 -
+2025-03-22 15:59:24,100 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:24] "GET /socket.io/?EIO=4&transport=polling&t=PM_S56-&sid=srjoLW8TF1zOdG2WAAAA HTTP/1.1" 200 -
+2025-03-22 15:59:24,102 - INFO - 127.0.0.1 - - [22/Mar/2025 15:59:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-22 16:13:33,052 - INFO - Monitoring started on '/home/mogambi/Desktop/mekatilili'
+2025-03-22 16:13:33,053 - INFO - 127.0.0.1 - - [22/Mar/2025 16:13:33] "POST /start HTTP/1.1" 200 -
+2025-03-22 16:13:33,063 - INFO - Added: /home/mogambi/Desktop/mekatilili/hella.txt, /home/mogambi/Desktop/mekatilili/image102.jpg
+2025-03-22 16:13:44,727 - INFO - 127.0.0.1 - - [22/Mar/2025 16:13:44] "GET / HTTP/1.1" 200 -
+2025-03-22 16:13:44,733 - INFO - 127.0.0.1 - - [22/Mar/2025 16:13:44] "GET /socket.io/?EIO=4&transport=websocket&sid=srjoLW8TF1zOdG2WAAAA HTTP/1.1" 200 -
+2025-03-22 16:13:44,777 - INFO - 127.0.0.1 - - [22/Mar/2025 16:13:44] "GET /socket.io/?EIO=4&transport=polling&t=PM_VNF4 HTTP/1.1" 200 -
+2025-03-22 16:13:44,784 - INFO - 127.0.0.1 - - [22/Mar/2025 16:13:44] "POST /socket.io/?EIO=4&transport=polling&t=PM_VNFD&sid=EkkM96sURr74AVfZAAAC HTTP/1.1" 200 -
+2025-03-22 16:13:44,786 - INFO - 127.0.0.1 - - [22/Mar/2025 16:13:44] "GET /socket.io/?EIO=4&transport=polling&t=PM_VNFF&sid=EkkM96sURr74AVfZAAAC HTTP/1.1" 200 -
+2025-03-22 16:13:54,430 - INFO - 127.0.0.1 - - [22/Mar/2025 16:13:54] "GET / HTTP/1.1" 200 -
+2025-03-22 16:13:54,503 - INFO - 127.0.0.1 - - [22/Mar/2025 16:13:54] "GET /socket.io/?EIO=4&transport=polling&t=PM_VPd4 HTTP/1.1" 200 -
+2025-03-22 16:13:54,511 - INFO - 127.0.0.1 - - [22/Mar/2025 16:13:54] "POST /socket.io/?EIO=4&transport=polling&t=PM_VPdC&sid=QCgVyBscxMPkezkKAAAE HTTP/1.1" 200 -
+2025-03-22 16:13:54,521 - INFO - 127.0.0.1 - - [22/Mar/2025 16:13:54] "GET /socket.io/?EIO=4&transport=polling&t=PM_VPdE&sid=QCgVyBscxMPkezkKAAAE HTTP/1.1" 200 -
+2025-03-22 16:13:54,523 - INFO - 127.0.0.1 - - [22/Mar/2025 16:13:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-22 16:13:54,534 - INFO - 127.0.0.1 - - [22/Mar/2025 16:13:54] "GET /socket.io/?EIO=4&transport=polling&t=PM_VPdY&sid=QCgVyBscxMPkezkKAAAE HTTP/1.1" 200 -
+2025-03-22 16:14:09,778 - INFO - 127.0.0.1 - - [22/Mar/2025 16:14:09] "GET /socket.io/?EIO=4&transport=polling&t=PM_VNFM&sid=EkkM96sURr74AVfZAAAC HTTP/1.1" 200 -
+2025-03-22 16:52:27,692 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.14:5000
+2025-03-22 16:52:27,692 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-22 16:52:27,692 - INFO -  * Restarting with stat
+2025-03-22 16:52:28,010 - WARNING -  * Debugger is active!
+2025-03-22 16:52:28,011 - INFO -  * Debugger PIN: 842-828-502
+2025-03-22 16:52:55,436 - INFO - 127.0.0.1 - - [22/Mar/2025 16:52:55] "GET / HTTP/1.1" 200 -
+2025-03-22 16:52:55,477 - INFO - 127.0.0.1 - - [22/Mar/2025 16:52:55] "GET /socket.io/?EIO=4&transport=polling&t=PM_eL8m HTTP/1.1" 200 -
+2025-03-22 16:52:55,493 - INFO - 127.0.0.1 - - [22/Mar/2025 16:52:55] "POST /socket.io/?EIO=4&transport=polling&t=PM_eL91&sid=y2b7kou3pMqnqhdRAAAA HTTP/1.1" 200 -
+2025-03-22 16:52:55,494 - INFO - 127.0.0.1 - - [22/Mar/2025 16:52:55] "GET /socket.io/?EIO=4&transport=polling&t=PM_eL93&sid=y2b7kou3pMqnqhdRAAAA HTTP/1.1" 200 -
+2025-03-22 16:52:56,701 - INFO - 127.0.0.1 - - [22/Mar/2025 16:52:56] "GET /socket.io/?EIO=4&transport=polling&t=PM_eL9A&sid=y2b7kou3pMqnqhdRAAAA HTTP/1.1" 200 -
+2025-03-22 17:01:49,893 - INFO - Monitoring started on '/home/mogambi/Desktop/file_integrity_test'
+2025-03-22 17:01:49,894 - INFO - 127.0.0.1 - - [22/Mar/2025 17:01:49] "POST /start HTTP/1.1" 200 -
+2025-03-22 17:02:08,902 - INFO - Added: /home/mogambi/Desktop/file_integrity_test/test1.txt
+2025-03-22 17:02:27,914 - INFO - Modified: /home/mogambi/Desktop/file_integrity_test/test1.txt
+2025-03-22 17:04:31,005 - INFO - Added: /home/mogambi/Desktop/file_integrity_test/text2.txt
+2025-03-22 17:04:31,005 - INFO - Removed: /home/mogambi/Desktop/file_integrity_test/test1.txt
+2025-03-22 17:05:18,044 - INFO - Added: /home/mogambi/Desktop/file_integrity_test/Documents
+2025-03-23 01:04:31,788 - INFO -  * Restarting with watchdog (inotify)
+2025-03-23 01:05:25,943 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+2025-03-23 01:05:25,943 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-23 01:05:25,943 - INFO -  * Restarting with stat
+2025-03-23 01:05:26,244 - WARNING -  * Debugger is active!
+2025-03-23 01:05:26,244 - INFO -  * Debugger PIN: 119-512-244
+2025-03-23 01:05:50,628 - INFO - 127.0.0.1 - - [23/Mar/2025 01:05:50] "GET / HTTP/1.1" 200 -
+2025-03-23 01:05:50,693 - INFO - 127.0.0.1 - - [23/Mar/2025 01:05:50] "GET /socket.io/?EIO=4&transport=polling&t=PN1P9fW HTTP/1.1" 200 -
+2025-03-23 01:05:50,745 - INFO - 127.0.0.1 - - [23/Mar/2025 01:05:50] "POST /socket.io/?EIO=4&transport=polling&t=PN1P9g8&sid=Y5VqEwzxbjYxtykDAAAA HTTP/1.1" 200 -
+2025-03-23 01:05:50,758 - INFO - 127.0.0.1 - - [23/Mar/2025 01:05:50] "GET /socket.io/?EIO=4&transport=polling&t=PN1P9gC&sid=Y5VqEwzxbjYxtykDAAAA HTTP/1.1" 200 -
+2025-03-23 01:05:50,761 - INFO - 127.0.0.1 - - [23/Mar/2025 01:05:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-23 23:07:07,014 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:07] "GET /socket.io/?EIO=4&transport=websocket&sid=Y5VqEwzxbjYxtykDAAAA HTTP/1.1" 200 -
+2025-03-23 23:07:07,790 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:07] "GET /socket.io/?EIO=4&transport=polling&t=PN67aQ8 HTTP/1.1" 200 -
+2025-03-23 23:07:07,811 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:07] "POST /socket.io/?EIO=4&transport=polling&t=PN67aQP&sid=nYdSPngk1W3Czy5xAAAC HTTP/1.1" 200 -
+2025-03-23 23:07:07,812 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:07] "GET /socket.io/?EIO=4&transport=polling&t=PN67aQR&sid=nYdSPngk1W3Czy5xAAAC HTTP/1.1" 200 -
+2025-03-23 23:07:10,426 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:10] "GET /socket.io/?EIO=4&transport=websocket&sid=nYdSPngk1W3Czy5xAAAC HTTP/1.1" 200 -
+2025-03-23 23:07:10,458 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:10] "GET / HTTP/1.1" 200 -
+2025-03-23 23:07:10,484 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:10] "GET /socket.io/?EIO=4&transport=polling&t=PN67b4G HTTP/1.1" 200 -
+2025-03-23 23:07:10,499 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:10] "POST /socket.io/?EIO=4&transport=polling&t=PN67b4S&sid=RdRdd-csPqFB6Yj5AAAE HTTP/1.1" 200 -
+2025-03-23 23:07:10,505 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:10] "GET /socket.io/?EIO=4&transport=polling&t=PN67b4T&sid=RdRdd-csPqFB6Yj5AAAE HTTP/1.1" 200 -
+2025-03-23 23:07:11,036 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "GET /socket.io/?EIO=4&transport=websocket&sid=RdRdd-csPqFB6Yj5AAAE HTTP/1.1" 200 -
+2025-03-23 23:07:11,059 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "GET / HTTP/1.1" 200 -
+2025-03-23 23:07:11,113 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "GET /socket.io/?EIO=4&transport=polling&t=PN67bDz HTTP/1.1" 200 -
+2025-03-23 23:07:11,128 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "POST /socket.io/?EIO=4&transport=polling&t=PN67bEI&sid=yeRUE4kF0ppEeUiqAAAG HTTP/1.1" 200 -
+2025-03-23 23:07:11,129 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "GET /socket.io/?EIO=4&transport=polling&t=PN67bEK&sid=yeRUE4kF0ppEeUiqAAAG HTTP/1.1" 200 -
+2025-03-23 23:07:11,138 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "GET /socket.io/?EIO=4&transport=polling&t=PN67bEW&sid=yeRUE4kF0ppEeUiqAAAG HTTP/1.1" 200 -
+2025-03-23 23:07:11,334 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "GET /socket.io/?EIO=4&transport=websocket&sid=yeRUE4kF0ppEeUiqAAAG HTTP/1.1" 200 -
+2025-03-23 23:07:11,360 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "GET / HTTP/1.1" 200 -
+2025-03-23 23:07:11,422 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "GET /socket.io/?EIO=4&transport=polling&t=PN67bIm HTTP/1.1" 200 -
+2025-03-23 23:07:11,435 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "POST /socket.io/?EIO=4&transport=polling&t=PN67bJ5&sid=PNIgbvoc-VP__3G4AAAI HTTP/1.1" 200 -
+2025-03-23 23:07:11,435 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "GET /socket.io/?EIO=4&transport=polling&t=PN67bJ6&sid=PNIgbvoc-VP__3G4AAAI HTTP/1.1" 200 -
+2025-03-23 23:07:11,478 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "GET /socket.io/?EIO=4&transport=websocket&sid=PNIgbvoc-VP__3G4AAAI HTTP/1.1" 200 -
+2025-03-23 23:07:11,484 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "GET / HTTP/1.1" 200 -
+2025-03-23 23:07:11,499 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "GET /socket.io/?EIO=4&transport=polling&t=PN67bK8 HTTP/1.1" 200 -
+2025-03-23 23:07:11,507 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "POST /socket.io/?EIO=4&transport=polling&t=PN67bKF&sid=9CbYHo14uNrMQDKEAAAK HTTP/1.1" 200 -
+2025-03-23 23:07:11,508 - INFO - 127.0.0.1 - - [23/Mar/2025 23:07:11] "GET /socket.io/?EIO=4&transport=polling&t=PN67bKG&sid=9CbYHo14uNrMQDKEAAAK HTTP/1.1" 200 -
+2025-03-24 03:46:46,698 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.209:5000
+2025-03-24 03:46:46,700 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 03:46:46,700 - INFO -  * Restarting with stat
+2025-03-24 03:46:46,992 - WARNING -  * Debugger is active!
+2025-03-24 03:46:46,993 - INFO -  * Debugger PIN: 429-340-590
+2025-03-24 03:46:59,605 - INFO - 127.0.0.1 - - [24/Mar/2025 03:46:59] "GET / HTTP/1.1" 200 -
+2025-03-24 03:46:59,662 - INFO - 127.0.0.1 - - [24/Mar/2025 03:46:59] "GET /socket.io/?EIO=4&transport=polling&t=PN77d_B HTTP/1.1" 200 -
+2025-03-24 03:46:59,686 - INFO - 127.0.0.1 - - [24/Mar/2025 03:46:59] "POST /socket.io/?EIO=4&transport=polling&t=PN77d_Z&sid=ONPEnBdRO3Na4rLMAAAA HTTP/1.1" 200 -
+2025-03-24 03:46:59,689 - INFO - 127.0.0.1 - - [24/Mar/2025 03:46:59] "GET /socket.io/?EIO=4&transport=polling&t=PN77d_d&sid=ONPEnBdRO3Na4rLMAAAA HTTP/1.1" 200 -
+2025-03-24 03:47:01,017 - INFO - 127.0.0.1 - - [24/Mar/2025 03:47:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-24 03:47:01,022 - INFO - 127.0.0.1 - - [24/Mar/2025 03:47:01] "GET /socket.io/?EIO=4&transport=polling&t=PN77d_i&sid=ONPEnBdRO3Na4rLMAAAA HTTP/1.1" 200 -
+2025-03-24 03:47:48,363 - INFO - Monitoring started on '/home/mogambi/Downloads/hellaaa'
+2025-03-24 03:47:48,365 - INFO - 127.0.0.1 - - [24/Mar/2025 03:47:48] "POST /start HTTP/1.1" 200 -
+2025-03-24 03:48:18,371 - INFO - Added: /home/mogambi/Downloads/hellaaa/hellaaa
+2025-03-24 03:48:39,055 - INFO - 127.0.0.1 - - [24/Mar/2025 03:48:39] "GET /socket.io/?EIO=4&transport=websocket&sid=ONPEnBdRO3Na4rLMAAAA HTTP/1.1" 200 -
+2025-03-24 03:48:40,234 - INFO - 127.0.0.1 - - [24/Mar/2025 03:48:40] "GET /socket.io/?EIO=4&transport=polling&t=PN780YY HTTP/1.1" 200 -
+2025-03-24 03:48:40,257 - INFO - 127.0.0.1 - - [24/Mar/2025 03:48:40] "POST /socket.io/?EIO=4&transport=polling&t=PN780Yq&sid=SGathLpLEkpRUX5aAAAC HTTP/1.1" 200 -
+2025-03-24 03:48:40,264 - INFO - 127.0.0.1 - - [24/Mar/2025 03:48:40] "GET /socket.io/?EIO=4&transport=polling&t=PN780Yt&sid=SGathLpLEkpRUX5aAAAC HTTP/1.1" 200 -
+2025-03-24 03:48:40,275 - INFO - 127.0.0.1 - - [24/Mar/2025 03:48:40] "GET /socket.io/?EIO=4&transport=polling&t=PN780ZH&sid=SGathLpLEkpRUX5aAAAC HTTP/1.1" 200 -
+2025-03-24 05:00:39,003 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.209:5000
+2025-03-24 05:00:39,004 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 05:00:39,004 - INFO -  * Restarting with stat
+2025-03-24 05:00:39,290 - WARNING -  * Debugger is active!
+2025-03-24 05:00:39,291 - INFO -  * Debugger PIN: 429-340-590
+2025-03-24 05:00:50,678 - INFO - 127.0.0.1 - - [24/Mar/2025 05:00:50] "GET / HTTP/1.1" 200 -
+2025-03-24 05:00:50,723 - INFO - 127.0.0.1 - - [24/Mar/2025 05:00:50] "GET /socket.io/?EIO=4&transport=polling&t=PN7OXoV HTTP/1.1" 200 -
+2025-03-24 05:00:50,741 - INFO - 127.0.0.1 - - [24/Mar/2025 05:00:50] "POST /socket.io/?EIO=4&transport=polling&t=PN7OXop&sid=a__rq3NGvyZ55kzXAAAA HTTP/1.1" 200 -
+2025-03-24 05:00:50,745 - INFO - 127.0.0.1 - - [24/Mar/2025 05:00:50] "GET /socket.io/?EIO=4&transport=polling&t=PN7OXoq&sid=a__rq3NGvyZ55kzXAAAA HTTP/1.1" 200 -
+2025-03-24 05:00:51,929 - INFO - 127.0.0.1 - - [24/Mar/2025 05:00:51] "GET /socket.io/?EIO=4&transport=polling&t=PN7OXoz&sid=a__rq3NGvyZ55kzXAAAA HTTP/1.1" 200 -
+2025-03-24 05:00:51,937 - INFO - 127.0.0.1 - - [24/Mar/2025 05:00:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-24 05:01:46,211 - INFO - Monitoring started on '/home/mogambi/Desktop/testin'
+2025-03-24 05:01:46,212 - INFO - 127.0.0.1 - - [24/Mar/2025 05:01:46] "POST /start HTTP/1.1" 200 -
+2025-03-24 05:02:14,995 - INFO - 127.0.0.1 - - [24/Mar/2025 05:02:14] "GET /socket.io/?EIO=4&transport=websocket&sid=a__rq3NGvyZ55kzXAAAA HTTP/1.1" 200 -
+2025-03-24 05:02:16,453 - INFO - 127.0.0.1 - - [24/Mar/2025 05:02:16] "GET /socket.io/?EIO=4&transport=polling&t=PN7Osjz HTTP/1.1" 200 -
+2025-03-24 05:02:16,474 - INFO - 127.0.0.1 - - [24/Mar/2025 05:02:16] "POST /socket.io/?EIO=4&transport=polling&t=PN7OskF&sid=do-hYiUc8SadQ_8HAAAC HTTP/1.1" 200 -
+2025-03-24 05:02:16,477 - INFO - 127.0.0.1 - - [24/Mar/2025 05:02:16] "GET /socket.io/?EIO=4&transport=polling&t=PN7OskI&sid=do-hYiUc8SadQ_8HAAAC HTTP/1.1" 200 -
+2025-03-24 05:02:16,496 - INFO - 127.0.0.1 - - [24/Mar/2025 05:02:16] "GET /socket.io/?EIO=4&transport=polling&t=PN7Oskj&sid=do-hYiUc8SadQ_8HAAAC HTTP/1.1" 200 -
+2025-03-24 05:02:17,228 - INFO - Added: /home/mogambi/Desktop/testin/hellooooo.txt
+2025-03-24 05:02:32,192 - INFO - 127.0.0.1 - - [24/Mar/2025 05:02:32] "GET /socket.io/?EIO=4&transport=websocket&sid=do-hYiUc8SadQ_8HAAAC HTTP/1.1" 200 -
+2025-03-24 05:02:33,772 - INFO - 127.0.0.1 - - [24/Mar/2025 05:02:33] "GET /socket.io/?EIO=4&transport=polling&t=PN7OwyZ HTTP/1.1" 200 -
+2025-03-24 05:02:33,794 - INFO - 127.0.0.1 - - [24/Mar/2025 05:02:33] "POST /socket.io/?EIO=4&transport=polling&t=PN7Owys&sid=eCmAcm6YxprBtqmoAAAE HTTP/1.1" 200 -
+2025-03-24 05:02:33,797 - INFO - 127.0.0.1 - - [24/Mar/2025 05:02:33] "GET /socket.io/?EIO=4&transport=polling&t=PN7Owyv&sid=eCmAcm6YxprBtqmoAAAE HTTP/1.1" 200 -
+2025-03-24 05:02:33,810 - INFO - 127.0.0.1 - - [24/Mar/2025 05:02:33] "GET /socket.io/?EIO=4&transport=polling&t=PN7OwzF&sid=eCmAcm6YxprBtqmoAAAE HTTP/1.1" 200 -
+2025-03-24 05:02:43,248 - INFO - Removed: /home/mogambi/Desktop/testin/hellooooo.txt
+2025-03-24 05:03:10,262 - INFO - Added: /home/mogambi/Desktop/testin/hell1.txt
+2025-03-24 05:03:26,275 - INFO - Modified: /home/mogambi/Desktop/testin/hell1.txt
+2025-03-24 05:03:37,950 - INFO - Monitoring stopped.
+2025-03-24 05:03:37,952 - INFO - 127.0.0.1 - - [24/Mar/2025 05:03:37] "POST /stop HTTP/1.1" 200 -
